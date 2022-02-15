@@ -1,0 +1,16 @@
+
+body div p1{
+    background-color: pink;
+    font-family: serif;
+    font-size: 12pt;
+    color:blue;
+
+}
+
+body div p2{
+    background-color: green;
+    color:white;
+    font-family: fantasy;
+    font-size: 14pt;
+
+}
